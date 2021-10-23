@@ -228,6 +228,23 @@ html{
     border-radius: 5px;
     cursor: pointer;
 }
+.social{
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 8px;
+    
+}
+.social h2{
+    text-align: center;
+    color: rgb(44, 36, 36);
+}
+.social a{
+    font-size:25px;
+    color: black;
+    margin-left: 10px;
+}
 footer{
     background-color: rgb(87, 86, 86);
     background-blend-mode: darken;
